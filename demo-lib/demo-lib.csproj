@@ -4,17 +4,15 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <RootNamespace>demo_lib</RootNamespace>
     <Nullable>enable</Nullable>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Version>1.0.2</Version>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <Company>Kiran Consulting Limited</Company>
     <Authors>Kiran</Authors>
     <PackageProjectUrl>https://github.com/kiranm03/dotnet-core-nuget/</PackageProjectUrl>
-    <PackageIconUrl>https://icons8.com/icon/JTSntPkLfwkc/wind-turbine</PackageIconUrl>
+    <PackageIcon>https://icons8.com/icon/JTSntPkLfwkc/wind-turbine</PackageIcon>
     <PackageTags>generic repository</PackageTags>
     <Copyright>Copyright Â©2023 Kiran Consulting Limited</Copyright>
     <Description>A generic library for dotnet core nuget package</Description>
-    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
+    <License>http://opensource.org/licenses/MS-PL</License>
     <NeutralLanguage>en</NeutralLanguage>
     <RepositoryUrl>https://github.com/kiranm03/dotnet-core-nuget</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
