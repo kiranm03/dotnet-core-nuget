@@ -16,7 +16,12 @@
     <NeutralLanguage>en</NeutralLanguage>
     <RepositoryUrl>https://github.com/kiranm03/dotnet-core-nuget</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
 
