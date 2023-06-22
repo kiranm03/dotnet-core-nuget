@@ -12,7 +12,7 @@
     <PackageTags>generic repository</PackageTags>
     <Copyright>Copyright Â©2023 Kiran Consulting Limited</Copyright>
     <Description>A generic library for dotnet core nuget package</Description>
-    <License>http://opensource.org/licenses/MS-PL</License>
+    <PackageLicenseUrl>http://opensource.org/licenses/MS-PL</PackageLicenseUrl>
     <NeutralLanguage>en</NeutralLanguage>
     <RepositoryUrl>https://github.com/kiranm03/dotnet-core-nuget</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
