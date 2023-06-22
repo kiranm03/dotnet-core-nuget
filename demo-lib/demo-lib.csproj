@@ -8,7 +8,6 @@
     <Company>Kiran Consulting Limited</Company>
     <Authors>Kiran</Authors>
     <PackageProjectUrl>https://github.com/kiranm03/dotnet-core-nuget/</PackageProjectUrl>
-    <PackageIcon>https://icons8.com/icon/JTSntPkLfwkc/wind-turbine</PackageIcon>
     <PackageTags>generic repository</PackageTags>
     <Copyright>Copyright Â©2023 Kiran Consulting Limited</Copyright>
     <Description>A generic library for dotnet core nuget package</Description>
